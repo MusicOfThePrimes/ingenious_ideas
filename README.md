@@ -1,4 +1,4 @@
 # ingenious_ideas
-# Author: Huilin C. Reid
+# Author:
 # Tuesday, February 10, 2015
 # __________________________
